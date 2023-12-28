@@ -180,4 +180,11 @@ Here we have used some optional arguments:
 
 If you run our method now you should see again an interactive visualization window and the staircases will overlay when they are detected.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Bump detection
+
+It can detect one positive bump by changing parameters.
+
+
+You can see positive bump detection like below :
 
