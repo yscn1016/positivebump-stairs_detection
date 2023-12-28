@@ -188,3 +188,6 @@ It can detect one positive bump by changing parameters.
 
 You can see positive bump detection like below :
 
+https://github.com/yscn1016/positivebump-stairs_detection/assets/137193908/aafa1062-c16c-4d41-bb55-3db7f6e3ae02
+
+
